@@ -29,7 +29,7 @@ When I follow up with the previous step we also get some non-date and unnecessar
 the transformation has helped us in removing unnecessary information.
 After that we remove errors and now we have a clean sheet.
 
-**When you are excluding/transforming data, always think of a dynamic way so that it will work even with new data.**
+***When you are excluding/transforming data, always think of a dynamic way so that it will work even with new data.***
 
 We can then create a Parameter named worksheet as and type as text, value as APR 2022.
 For the purpose of getting new data and arranging it, we create a function which has all of the steps we did previously and can bew applied on the new data instantly.
